@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story ddt","Search wiki by keyword test DDT","FAILURE","2021-05-18T20:13:29.2747514+03:00[Europe/Athens]","0.0","18.06"
+"Search on website","Search wiki by keyword test DDT","ERROR","2021-05-18T20:27:45.5326872+03:00[Europe/Athens]","0.0","14.92"
+"Search on website","Search ubb by keyword test DDT","ERROR","2021-05-18T22:44:49.1140866+03:00[Europe/Athens]","0.0","8.97"

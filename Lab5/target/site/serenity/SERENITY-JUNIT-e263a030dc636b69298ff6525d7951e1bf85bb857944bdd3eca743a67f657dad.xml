@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="org.example.features.search.SearchByKeywordStoryDdt" skipped="0" tests="3" time="18.06" timestamp="2021-05-18 08:13:29"><testcase classname="org.example.features.search.SearchByKeywordStoryDdt" name="Search wiki by keyword test DDT"><failure message="&#10;Expected: a collection containing a string containing &quot;A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority); (obsolete, specifically) A female child, a girl.&quot;&#10;     but: was &quot;A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority) quotations ▼&#10;Go easy on him: he is but a child.&quot;, was &quot;&quot;, was &quot;(obsolete, specifically) A female child, a girl. quotations ▼&quot;, was &quot;&quot;, was &quot;(with possessive) One's direct descendant by birth, regardless of age; a son or daughter.&#10;My youngest child is forty-three this year.&quot;, was &quot;(cartomancy) The thirteenth Lenormand card.&quot;, was &quot;(figuratively) A figurative offspring, particularly:&#10;A person considered a product of a place or culture, a member of a tribe or culture, regardless of age. quotations ▼&#10;The children of Israel.&#10;He is a child of his times.&#10;Anything derived from or caused by something. quotations ▼&#10;(computing) A data item, process, or object which has a subservient or derivative role relative to another. quotations ▼&#10;The child node then stores the actual data of the parent node.&quot;, was &quot;A person considered a product of a place or culture, a member of a tribe or culture, regardless of age. quotations ▼&#10;The children of Israel.&#10;He is a child of his times.&quot;, was &quot;&quot;, was &quot;&quot;, was &quot;Anything derived from or caused by something. quotations ▼&quot;, was &quot;&quot;, was &quot;(computing) A data item, process, or object which has a subservient or derivative role relative to another. quotations ▼&#10;The child node then stores the actual data of the parent node.&quot;, was &quot;&quot;, was &quot;Alternative form of childe (“youth of noble birth”)&quot;" type="java.lang.AssertionError">
+Expected: a collection containing a string containing "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority); (obsolete, specifically) A female child, a girl."
+     but: was "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority) quotations ▼
+Go easy on him: he is but a child.", was "", was "(obsolete, specifically) A female child, a girl. quotations ▼", was "", was "(with possessive) One's direct descendant by birth, regardless of age; a son or daughter.
+My youngest child is forty-three this year.", was "(cartomancy) The thirteenth Lenormand card.", was "(figuratively) A figurative offspring, particularly:
+A person considered a product of a place or culture, a member of a tribe or culture, regardless of age. quotations ▼
+The children of Israel.
+He is a child of his times.
+Anything derived from or caused by something. quotations ▼
+(computing) A data item, process, or object which has a subservient or derivative role relative to another. quotations ▼
+The child node then stores the actual data of the parent node.", was "A person considered a product of a place or culture, a member of a tribe or culture, regardless of age. quotations ▼
+The children of Israel.
+He is a child of his times.", was "", was "", was "Anything derived from or caused by something. quotations ▼", was "", was "(computing) A data item, process, or object which has a subservient or derivative role relative to another. quotations ▼
+The child node then stores the actual data of the parent node.", was "", was "Alternative form of childe (“youth of noble birth”)"</failure><system-err>
+Expected: a collection containing a string containing "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority); (obsolete, specifically) A female child, a girl."
+     but: was "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority) quotations ▼
+Go easy on him: he is but a child.", was "", was "(obsolete, specifically) A female child, a girl. quotations ▼", was "", was "(with possessive) One's direct descendant by birth, regardless of age; a son or daughter.
+My youngest child is forty-three this year.", was "(cartomancy) The thirteenth Lenormand card.", was "(figuratively) A figurative offspring, particularly:
+A person considered a product of a place or culture, a member of a tribe or culture, regardless of age. quotations ▼
+The children of Israel.
+He is a child of his times.
+Anything derived from or caused by something. quotations ▼
+(computing) A data item, process, or object which has a subservient or derivative role relative to another. quotations ▼
+The child node then stores the actual data of the parent node.", was "A person considered a product of a place or culture, a member of a tribe or culture, regardless of age. quotations ▼
+The children of Israel.
+He is a child of his times.", was "", was "", was "Anything derived from or caused by something. quotations ▼", was "", was "(computing) A data item, process, or object which has a subservient or derivative role relative to another. quotations ▼
+The child node then stores the actual data of the parent node.", was "", was "Alternative form of childe (“youth of noble birth”)"&#13;
+org.example.steps.serenity.EndUserSteps.should_see_definition(EndUserSteps.java:27)&#13;
+org.example.features.search.SearchByKeywordStoryDdt.searchWikiByKeywordTestDDT(SearchByKeywordStoryDdt.java:46)&#13;
+</system-err></testcase></testsuite>

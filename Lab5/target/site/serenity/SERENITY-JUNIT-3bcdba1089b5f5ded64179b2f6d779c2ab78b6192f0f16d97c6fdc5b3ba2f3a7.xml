@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.example.features.search.SearchOnWebsite" skipped="0" tests="4" time="17.89" timestamp="2021-05-18 10:44:49"><testcase classname="org.example.features.search.SearchOnWebsite" name="Search ubb by keyword test DDT"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+org.example.steps.serenity.EndUserWebsite.should_see_definition(EndUserWebsite.java:51)&#13;
+org.example.features.search.SearchOnWebsite.searchUbbByKeywordTestDDT(SearchOnWebsite.java:64)&#13;
+</system-err></testcase><testcase classname="org.example.features.search.SearchOnWebsite" name="Search doneaza"/></testsuite>

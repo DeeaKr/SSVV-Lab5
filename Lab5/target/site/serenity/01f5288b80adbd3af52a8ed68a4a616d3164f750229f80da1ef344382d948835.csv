@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search on website","Search doneaza","SUCCESS","2021-05-18T22:44:49.3344957+03:00[Europe/Athens]","0.0","8.92"
+"Search by keyword story","Searching by keyword bana should display the corresponding article","SUCCESS","2021-05-18T22:47:04.7389238+03:00[Europe/Athens]","0.0","7.78"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","SUCCESS","2021-05-18T22:47:13.2492548+03:00[Europe/Athens]","0.0","2.69"
+"Search by keyword story","Searching by keyword mango should display the corresponding article","SUCCESS","2021-05-18T22:47:16.3396449+03:00[Europe/Athens]","0.0","2.94"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2021-05-18T22:47:19.3599537+03:00[Europe/Athens]","0.0","3.58"
